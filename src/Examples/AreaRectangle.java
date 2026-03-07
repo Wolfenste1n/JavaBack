@@ -1,3 +1,5 @@
+package Examples;
+
 public class AreaRectangle {
     final int len = 4;
     final int wid = 6;

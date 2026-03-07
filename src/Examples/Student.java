@@ -1,5 +1,7 @@
+package Examples;
+
 public class Student {
-    // Student Data
+    // Examples.Student Data
     String studentName = "Madiyar";
     int studentID = 241000;
     final int studentAge = 2026 - 2006;

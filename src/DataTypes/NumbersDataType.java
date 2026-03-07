@@ -1,3 +1,5 @@
+package DataTypes;
+
 public class NumbersDataType {
     // Primitive numbers data types:
     // Integer(byte,short,int,long) types AND Floating point types(float, double)

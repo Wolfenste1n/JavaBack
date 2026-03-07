@@ -1,3 +1,5 @@
+package StringsW3;
+
 public class StringVar {
     // String - collection of characters (String = object (contains methods))
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package Variables;
+
 public class PrintVariables {
     int x = 10;
     int y = 5;

@@ -1,3 +1,5 @@
+package DataTypes;
+
 public class DataTypesDetail {
     int myNum = 5; // Integer
     float myFloatNum = 3.14f; // Floating point number

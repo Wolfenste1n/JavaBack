@@ -1,3 +1,5 @@
+package DataTypes;
+
 public class CharactersDataType {
     // char = single character (single quotes '')
 //    char myGender = 'M';

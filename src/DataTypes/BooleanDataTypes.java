@@ -1,3 +1,5 @@
+package DataTypes;
+
 public class BooleanDataTypes {
 //    boolean isJavaFun = true;
 //    boolean isFishTasty = false;

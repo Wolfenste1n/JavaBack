@@ -1,3 +1,5 @@
+package DataTypes;
+
 public class NonPrimitiveDataTypes {
     // non prim d.t -> (reference types) refers to object
 //    The main differences between primitive and non-primitive data types are:

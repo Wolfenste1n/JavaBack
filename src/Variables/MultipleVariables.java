@@ -1,3 +1,5 @@
+package Variables;
+
 public class MultipleVariables {
 //    int x, y, z;
 //    x = y = z = 50;

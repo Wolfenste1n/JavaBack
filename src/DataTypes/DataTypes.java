@@ -1,3 +1,5 @@
+package DataTypes;
+
 public class DataTypes {
     final String studentName = "Madiyar"; // final = const
     int studentAge = 19;
